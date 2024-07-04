@@ -1,7 +1,8 @@
-Hello, world!
+# Hello, world!
 
 I am liunev, this is an account for me to work openly and freely.
-This is my vulnerable, honest and open voice, come and see what is in my mind.
+
+This is a space in which I will share all the different ways in which I am working to improve myself, in a transparent and out in the open way.
 
 Have a great day.
 
